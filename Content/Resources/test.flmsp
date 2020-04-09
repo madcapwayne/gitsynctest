@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="5c5aefed-c330-4ce0-ae4a-0cfc9f17bb68" data-blockingmode="auto" type="text/javascript">
+        </script>
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy />
+        <MadCap:bodyProxy />
+        <MadCap:miniTocProxy />
+        <MadCap:topicToolbarProxy class="" style="mc-topic-toolbar-items: ;" />
+    </body>
+</html>

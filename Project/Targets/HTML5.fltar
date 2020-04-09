@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  PartialWordSearch="true"
+  MasterPage="/Content/Resources/test.flmsp"
+  MasterToc="/Project/TOCs/Master.fltoc"
+  SearchResultsSkin="/Project/Skins/menu.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
+</CatapultTarget>

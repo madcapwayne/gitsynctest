@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  OutputFile="[%=System.ChapterNumber%]"
+  MasterToc="/Project/TOCs/Master.fltoc">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Destination.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
+</CatapultTarget>
